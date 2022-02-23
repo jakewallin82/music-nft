@@ -1,0 +1,12 @@
+{
+  "name": "My first Audio Visual NFT",
+  "description": "This is my first Audio Visual NFT. I found the link to a house music video with no copyright",
+  "image": "ipfs://QmfZuTzpfHmtpx29rswsA6ARBFmhjgVWjyGC22Rjf7ZrmY",
+  "animation_url": "ipfs://QmeLxHXqRV71DCcQuw3LrYkFKpwNZsTMyNm8PxHZZ7kKmG",
+  "external_url": "https://www.youtube.com/watch?v=tDb3FncQvJM",
+  "attributes": {
+		            "artist" : "WALLIN",
+                "license": "NO LICENSE",
+                "label":"WALLIN RECORDS"
+	}
+}
